@@ -1,0 +1,71 @@
+.contenedor{
+    height: auto;
+    background: white;
+    padding: 0;
+    max-width: 100%;
+    margin: 0;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .pie-layout{
+    background-color:#154360;
+    color: white;
+    height: 80px;
+    text-align: center;
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 13px;
+  }
+.navegador{
+    display: flex;
+    align-items: center;
+}
+.textoButon{
+    color: green;
+    font-weight: 500;
+    font-size: 20px;
+}
+.textolink{
+    color:gray
+}
+.containerImage{
+object-fit: cover;}
+
+.containerText{
+  height: 200px;
+  width: 500px;
+  margin-bottom: 80px;
+  margin-left: 450px;
+  text-align: right;
+
+
+}
+
+.divCard{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.cardImage{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: auto;
+  object-position: 0%;
+  object-fit: cover;
+}
+
+.textAux{
+  font-size: 13px;
+}
+
+.containerForm{
+  width: 80%;
+  margin: 0 auto;
+  color: gray;
+
+}
+.textoAux{
+  color: gray;
+}
